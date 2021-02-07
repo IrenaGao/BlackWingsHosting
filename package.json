@@ -2,6 +2,9 @@
   "name": "blackwingshacks",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "14.x"
+  }
   "main": "index.js",
   "dependencies": {
     "async": "^3.2.0",
