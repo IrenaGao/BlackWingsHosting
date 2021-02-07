@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.2213864d.chunk.js",
+    "main.js.map": "/static/js/main.2213864d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3a1074ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3a1074ec.js.map",
+    "static/js/2.3a0c2336.chunk.js": "/static/js/2.3a0c2336.chunk.js",
+    "static/js/2.3a0c2336.chunk.js.map": "/static/js/2.3a0c2336.chunk.js.map",
+    "static/js/3.24b6fdf0.chunk.js": "/static/js/3.24b6fdf0.chunk.js",
+    "static/js/3.24b6fdf0.chunk.js.map": "/static/js/3.24b6fdf0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3a0c2336.chunk.js.LICENSE.txt": "/static/js/2.3a0c2336.chunk.js.LICENSE.txt",
+    "static/media/background.23c0fcba.png": "/static/media/background.23c0fcba.png",
+    "static/media/bird.b57ab999.png": "/static/media/bird.b57ab999.png",
+    "static/media/drop.fa91222e.png": "/static/media/drop.fa91222e.png",
+    "static/media/hot-stones.66423944.png": "/static/media/hot-stones.66423944.png",
+    "static/media/softshelllogo.3c07df43.png": "/static/media/softshelllogo.3c07df43.png",
+    "static/media/tree.4ccecd2b.png": "/static/media/tree.4ccecd2b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a1074ec.js",
+    "static/js/2.3a0c2336.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2213864d.chunk.js"
+  ]
+}
